@@ -1,4 +1,4 @@
-package connections
+package transmission
 
 import (
 	"crypto/rand"
